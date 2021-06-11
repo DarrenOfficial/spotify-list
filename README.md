@@ -9,3 +9,6 @@ this contains, music that i listen to
 [Depressing list, usualy used when depressed](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM?si=RFXlKbyVTjKFCj3bsTcWSA&dl_branch=1)
 
 ## il add more soon
+
+### also follow me on spotify
+github.com/darrenofficial
