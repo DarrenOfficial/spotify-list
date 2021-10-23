@@ -1,6 +1,6 @@
 const urls = [
-  "https://open.spotify.com/embed/playlist/6ilAtITXZj7ksCtx3drreQ?theme=0",
-  "https://open.spotify.com/embed/album/4Hjqdhj5rh816i1dfcUEaM",
+  "https://open.spotify.com/embed/playlist/5vXVm6CAQzwdKLF10lpP8P?si=515b89271685439c?theme=0",
+  "https://open.spotify.com/embed/album/6pOwAexagsTxRqolCPy7Vd",
 ];
 
 export default urls;
